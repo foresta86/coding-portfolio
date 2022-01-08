@@ -4,4 +4,4 @@ I'm following the Codecademy Full-Stack Engineer Path and I thought about creati
 
 ### Projects:
 
-1) [Kelvin Converter in JavaScript](https://github.com/foresta86/portfolio/commit/0ce05a890c0606873ed01ac71c47562387b57395)
+1) [Kelvin Degrees Converter in JavaScript](https://github.com/foresta86/portfolio/commit/0ce05a890c0606873ed01ac71c47562387b57395)
