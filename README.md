@@ -13,3 +13,4 @@ Want to share some tips? Visit the [Discussions](https://github.com/foresta86/po
 5) [Rock, Paper, Scissors in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Rock%2C%20Paper%2C%20Scissors.js)
 6) [Sleep Debt Calculator in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Sleep%20Debt%20Calculator.js)
 7) [Training Days in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Training%20Days.js)
+8) [Number Guesser in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Number%20Guesser.js)
