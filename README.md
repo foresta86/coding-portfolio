@@ -15,3 +15,4 @@ Want to share some tips? Visit the [Discussions](https://github.com/foresta86/po
 7) [Training Days in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Training%20Days.js)
 8) [Number Guesser in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Number%20Guesser.js)
 9) [Secret Message in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Secret%20Message.js)
+10) [Whale Talk in JavaScript](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript%20-%20Whale%20Talk.js)
