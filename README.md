@@ -4,6 +4,10 @@ I'm following the Codecademy Full-Stack Engineer Path and I thought about creati
 
 Want to share some tips? Visit the [Discussions](https://github.com/foresta86/portfolio/discussions) section!
 
+### HTML Projects:
+
+1)
+
 ### JavaScript Projects:
 
 1) [Kelvin Degrees Converter](https://github.com/foresta86/coding-portfolio/blob/main/JavaScript/Kelvin%20Degrees%20Converter.js)
