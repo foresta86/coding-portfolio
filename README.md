@@ -7,6 +7,7 @@ Want to share some tips? Visit the [Discussions](https://github.com/foresta86/po
 ### HTML Projects:
 
 1) [Fashion Blog](https://github.com/foresta86/coding-portfolio/blob/main/HTML/Fashion%20Blog.html)
+2) [Wine Festival Schedule](https://github.com/foresta86/coding-portfolio/blob/main/HTML/Wine%20Festival%20Schedule.html)
 
 ### JavaScript Projects:
 
